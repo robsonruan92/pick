@@ -3,8 +3,7 @@
 ## Visão geral  
   
 Este guia descreve de forma resumida como preparar o ambiente e executar a aplicação Flask utilizando Python, ambiente virtual e Redis.  
-  
----  
+    
   
 ## Passos para execução  
   
