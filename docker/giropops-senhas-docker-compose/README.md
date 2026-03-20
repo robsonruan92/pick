@@ -1,19 +1,33 @@
-# README.md                                                                                                                                                                                                 ## Visão geral                                                                                                                                                                                              ABC                                                                                                                                                                                                         ---                                                                                                                                                                                                         # Estrutura do Docker-Compose                                                                                                                                                                               ```bash                                                                                                                                                                                                     ABC123                                                                                                                                                                                                      ```                                                                                                                                                                                                         Descrição:                                                                                            - **A**: B                                                                                            - **A**: B                                                                                            - **A**: B                                                                                            - **A**: B                                                                                            - **A**: B                                                                                            - **A**: B                                                                                                                                                                                                  ----------                                                                                                                                                                                                  # Passos para execução                                                                                                                                                                                      ## 1.
-
+# README.md  
+  
+## Visão geral  
+  
+Este guia descreve ...
+  
+---  
+  
+# Estrutura do Docker-Compose
+    
+```bash  
+command
 ```
-COMAND
-```
 
-O QUE O COMANDO FAZ
+Descrição:
+- **A**: ABC
+- **A**: ABC
+- **A**: ABC
+- **A**: ABC
+- **A**: ABC
+- **A**: ABC
 
 ----------
 
-## 2. 
-
+# Passos para execução  
+  
+## 1. Primeira ação
+  
 ```
-
+command
 ```
-
+O que esse comando faz
 ----------
-
-
