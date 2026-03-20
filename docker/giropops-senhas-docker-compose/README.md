@@ -5,7 +5,6 @@
 Este projeto sobe uma aplicação chamada **giropops-senhas** integrada com um **Redis**, utilizando Docker Compose.
 A aplicação é construída a partir de um Dockerfile customizado e se comunica com o Redis via rede interna do Docker.
 
----
 
 ## Arquitetura
 
