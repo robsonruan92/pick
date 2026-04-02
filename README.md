@@ -10,8 +10,6 @@ Organizar meus estudos e experimentos relacionados a:
 - Docker
 - Docker Compose
 - Kubernetes
-- Helm
-- Networking
-- Observabilidade
+- Kind
 - Segurança
 - Boas práticas de deploy e operação
